@@ -40,7 +40,7 @@ A aplicação estará rodando no endereço padrão: http://localhost:8080
 Este projeto possui documentação interativa da API gerada automaticamente com Swagger (Springdoc OpenAPI).
 
 Após iniciar a aplicação, acesse a interface de documentação no navegador:
-http://localhost:8080/service-desk/swagger-ui/index.html#/
+http://localhost:8080/swagger-ui/index.html#/
 
 Na interface Swagger você pode:
 
