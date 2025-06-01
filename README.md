@@ -24,7 +24,8 @@ Este projeto é uma API REST para gerenciamento de Chamados de Serviço, constru
 
 ### Passos para configurar e executar:
 
-- Clone o repositório:git clone https://github.com/seu-usuario/seu-repositorio.git
+- Clone o repositório:git clone https://github.com/AirtonSouza10/APIGerenciamentoChamadosDeServicos.git
+- Crie o banco de dados no Postgresql sem tabelas.
 - Configure as credenciais do banco no arquivo application.properties:
   spring.datasource.url=jdbc:postgresql://localhost:5432/nomeBanco
   spring.datasource.username=usuario_Banco
